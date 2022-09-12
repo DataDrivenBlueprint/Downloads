@@ -5,6 +5,6 @@ In this library you will find the PDF of the booklet as wel as the PDF format of
 
 We wish you a lot of interesting insights!
 
-Laila Fettah
-Ronald Meijer
+Laila Fettah,
+Ronald Meijer,
 Jan Schravesande
