@@ -9,6 +9,8 @@ Laila Fettah,
 Ronald Meijer,
 Jan Schravesande
 
+*** Second Edition! ***
+
 And we have made a second edition available base don questions we received. We have extended two chapters.
 How to use the booklet. We have asked questions how the booklet and poster could be used and how these could help in accelerating. 
 We have exteded the part about sustainability. Based on the Responsible.Computing Framework we have added some comments about sustainability.
